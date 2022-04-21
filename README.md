@@ -1,1 +1,1 @@
-# GaleriaProjekt
+# Szabó Ádám Erik
