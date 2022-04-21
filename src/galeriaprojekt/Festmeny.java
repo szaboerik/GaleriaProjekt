@@ -9,6 +9,6 @@ package galeriaprojekt;
  *
  * @author Erik
  */
-public class Festmeny {
-    
+public class Festmeny extends KiallitasiTargy{
+    String fajleleres;
 }
